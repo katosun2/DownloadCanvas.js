@@ -21,3 +21,4 @@ DownloadCanvas({
 	height: null // 高
 });
 ```
+MIT
