@@ -5,10 +5,10 @@ Ver 1.0
 支持：``IE10+``, ``Chrome32+``, ``Firefox49+``, ``Safari7+``
 
 依赖：
-[atob](https://developer.mozilla.org/zh-CN/docs/Web/API/WindowBase64/atob)
-[canvas-toBlob.js](https://github.com/eligrey/canvas-toBlob.js)
-[canvg](https://github.com/canvg/canvg)
-[FileSaver.js](https://github.com/eligrey/FileSaver.js/)
+ - [atob](https://developer.mozilla.org/zh-CN/docs/Web/API/WindowBase64/atob)
+ - [canvas-toBlob.js](https://github.com/eligrey/canvas-toBlob.js)
+ - [canvg](https://github.com/canvg/canvg)
+ - [FileSaver.js](https://github.com/eligrey/FileSaver.js/)
 
 用法：
 ```js
