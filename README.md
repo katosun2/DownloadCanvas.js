@@ -11,6 +11,15 @@ Ver 1.0
  - [FileSaver.js](https://github.com/eligrey/FileSaver.js/)
 
 用法：
+```html
+<script type="text/javascript" src="./canvas-toBlob/canvas-toBlob.js"></script> 
+<script type="text/javascript" src="./canvg/rgbcolor.js"></script> 
+<script type="text/javascript" src="./canvg/StackBlur.js"></script>
+<script type="text/javascript" src="./canvg/canvg.js"></script> 
+<script type="text/javascript" src="./FileSaver/FileSaver.js"></script> 
+<script type="text/javascript" src="./DownloadCanvas.js"></script> 
+```
+
 ```js
 DownloadCanvas({
 	canvas: null, // canvas对象可选
